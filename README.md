@@ -51,9 +51,3 @@ This is a simple and interactive **Sales Dashboard** built using **Power BI**. I
 
 ---
 
-## 🖼️ Dashboard Preview
-
-*You can add screenshots here later if needed by uploading images and linking them like:*
-
-```markdown
-![Dashboard Screenshot](Screenshot (23).png)
